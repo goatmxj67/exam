@@ -6,7 +6,6 @@ package exam;
  * 작성자 : 이율기
  * 작성일자 : 2021-04-05
  * 설명 : 클라이언트로부터 메시지 수신
- * 
  */
 
 import java.io.BufferedInputStream;

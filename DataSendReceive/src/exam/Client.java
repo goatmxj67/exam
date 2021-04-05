@@ -6,7 +6,6 @@ package exam;
  * 작성자 : 이율기
  * 작성일자 : 2021-04-05
  * 설명 : 서버에게 메시지 전달
- * 
  */
 
 import java.io.BufferedOutputStream;
